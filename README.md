@@ -8,6 +8,7 @@
 <p align="center">
   <a href="mailto:zhangxiaoxi7097@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhangxiaoxi7097%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/xiaoxi-zhang-732306416/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Xiaoxi%20Zhang-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/pnnzee"><img alt="X" src="https://img.shields.io/badge/X-%40pnnzee-000000?style=flat-square&logo=x&logoColor=white"></a>
   <img alt="Kaggle Silver Medal" src="https://img.shields.io/badge/Kaggle-Silver%20Medal-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
 </p>
 
@@ -71,4 +72,4 @@ I'm an anesthesiologist. Outside the OR I mostly work on two things: AI-assisted
 ### 联系 · Contact
 
 欢迎就麻醉、围术期 AI 与 Agent 工作流交流。<br>
-Happy to talk about anesthesia, perioperative AI and agent workflows — [zhangxiaoxi7097@gmail.com](mailto:zhangxiaoxi7097@gmail.com) · [LinkedIn](https://www.linkedin.com/in/xiaoxi-zhang-732306416/)
+Happy to talk about anesthesia, perioperative AI and agent workflows — [zhangxiaoxi7097@gmail.com](mailto:zhangxiaoxi7097@gmail.com) · [LinkedIn](https://www.linkedin.com/in/xiaoxi-zhang-732306416/) · [X @pnnzee](https://x.com/pnnzee)
