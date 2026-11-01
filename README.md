@@ -1,8 +1,8 @@
 <h1 align="center">Xiaoxi Zhang</h1>
 
 <p align="center">
-  麻醉医师 · 关注临床 AI 工具与可复现研究<br>
-  Anesthesiologist working on clinical AI tools and reproducible research workflows
+  麻醉医师 · 关注临床 AI 工具与 Agent 工作流<br>
+  Anesthesiologist working on clinical AI tools and agent workflows
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ### 关于 · About
 
-我是一名麻醉医师。业余时间主要做三件事：为麻醉与围术期场景搭建 AI 辅助工具；把临床研究流程做成可追溯、可复现的代码；以及为 Codex / Claude Code 编写 Agent Skill 和工作流。
+我是一名麻醉医师。业余时间主要做两件事：为麻醉与围术期场景搭建 AI 辅助工具，以及为 Codex / Claude Code 编写 Agent Skill 和工作流。
 
-I'm an anesthesiologist. Outside the OR I mostly work on three things: AI-assisted tools for anesthesia and perioperative care, traceable and reproducible clinical research code, and agent skills / workflows for Codex and Claude Code.
+I'm an anesthesiologist. Outside the OR I mostly work on two things: AI-assisted tools for anesthesia and perioperative care, and agent skills / workflows for Codex and Claude Code.
 
 ### 项目 · Selected Projects
 
@@ -70,5 +70,5 @@ I'm an anesthesiologist. Outside the OR I mostly work on three things: AI-assist
 
 ### 联系 · Contact
 
-欢迎就麻醉、围术期 AI 与可复现研究交流。<br>
-Happy to talk about anesthesia, perioperative AI and reproducible research — [zhangxiaoxi7097@gmail.com](mailto:zhangxiaoxi7097@gmail.com) · [LinkedIn](https://www.linkedin.com/in/xiaoxi-zhang-732306416/)
+欢迎就麻醉、围术期 AI 与 Agent 工作流交流。<br>
+Happy to talk about anesthesia, perioperative AI and agent workflows — [zhangxiaoxi7097@gmail.com](mailto:zhangxiaoxi7097@gmail.com) · [LinkedIn](https://www.linkedin.com/in/xiaoxi-zhang-732306416/)
