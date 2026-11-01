@@ -28,13 +28,6 @@ I'm an anesthesiologist. Outside the OR I mostly work on three things: AI-assist
 | [**AnesGuardian**](https://github.com/zhangxiaoxi2025/AnesGuardian) | 麻醉守护神：面向麻醉医生的围术期决策支持系统，包括多智能体术前风险评估、药物相互作用分析和病历图像识别。<br>Perioperative decision-support system with multi-agent pre-op risk assessment, drug-interaction checks and medical-record image extraction. `TypeScript` `React` `Gemini` |
 | [**AnesBGA**](https://github.com/zhangxiaoxi2025/AnesBGA) | 麻醉科血气分析助手：拍照识别血气报告，生成围术期分析建议；无需登录，不存储数据。<br>Blood-gas analysis assistant: OCR of a photographed report plus AI-generated interpretation; no login, no data stored. `Python` `FastAPI` `React` |
 
-**可复现科研 · Reproducible research**
-
-| Project | 简介 · Description |
-| --- | --- |
-| [**creatinine-coarsening-study**](https://github.com/zhangxiaoxi2025/creatinine-coarsening-study) | 数值粗化对基于肌酐的 AKI 研究标签影响的配对实证研究代码；完整流程可用合成数据运行，不含患者数据。<br>Code for a paired empirical study of numerical coarsening and creatinine-based AKI research labels; full pipeline runs on synthetic fixtures, no patient-level data. `Python` |
-| [**ars-research-harness**](https://github.com/zhangxiaoxi2025/ars-research-harness-1) | 以检查点为核心的科研工作流框架：每个阶段留痕、校验并等待人工确认；附 NHANES 2017–2018 完整示例。<br>Checkpoint-first research workflow harness with stage gates, validators and human confirmation; includes a full NHANES 2017–2018 example. `Python` `R` |
-
 **Agent 与 Skill 工作流 · Agent & skill workflows**
 
 | Project | 简介 · Description |
